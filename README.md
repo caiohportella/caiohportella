@@ -31,13 +31,12 @@
 
 <br>
 <br>
-https://github-readme-stats-caiohportella.vercel.app
 
 ## Principais Projetos
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
 [![Leitner](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/SALeitner)
 [![P5.js](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=Projectsp5js&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/Projectsp5js)
-[![YelpCamp](https://github-readme-stats-caiohportella.vercel.app)/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
+[![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
 
 <br>
 <br>
