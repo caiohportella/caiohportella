@@ -12,8 +12,8 @@
 <br>
 <div align="center">
     <a href="https://github.com/caiohportella">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiohportella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohportella&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api?username=caiohportella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api/top-langs/?username=caiohportella&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"> <br>
@@ -31,6 +31,7 @@
 
 <br>
 <br>
+https://github-readme-stats-caiohportella.vercel.app
 
 ## Principais Projetos
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
