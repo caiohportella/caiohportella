@@ -1,5 +1,5 @@
 <div>
-    <h1>:skull: Caio Henrique Portella</h1>
+    <h1>:skull: Bem vindo ao meu perfil :skull:</h1>
     <h2>Estudante de Ciência da Computação</h2>
     <p>Muito prazer, me chamo Caio Portella e estou no meu último semestre de ciência da computação. Me dedico, atualmente, ao meu TCC que está sendo desenvolvido utilizando tecnologias web. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos e em busca de novas oportunidades.</p>
 </div>
@@ -34,9 +34,10 @@
 
 ## Principais Projetos
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
-[![Leitner](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/SALeitner)
 [![P5.js](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=Projectsp5js&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/Projectsp5js)
+[![ProjectsProcessing](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectsProcessing)
 [![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
+[![DiscordBot](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/DiscordBot)
 
 <br>
 <br>
