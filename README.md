@@ -1,5 +1,5 @@
 <div>
-    <h1>:skull: Bem vindo ao meu perfil :skull:</h1>
+    <h1>Bem vindo ao meu perfil 🎸✨:</h1>
     <h2>Estudante de Ciência da Computação</h2>
     <p>Muito prazer, me chamo Caio Portella e estou no meu último semestre de ciência da computação. Me dedico, atualmente, ao meu TCC que está sendo desenvolvido utilizando tecnologias web. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos e em busca de novas oportunidades.</p>
 </div>
@@ -8,6 +8,7 @@
     <h2> Conecte-se comigo </h2>
     <a href="https://www.linkedin.com/in/caiohportella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://open.spotify.com/user/3ybjs5bkyxi64zn1le2trg6cy?si=2986e379ffeb4a1d" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23007B5?style=for-the-badge&logo=spotify&logoColor=black"></a>
+    <a href="mailto:caiohportella@gmail.com?" target="_blank"><img src=" 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
 <br>
 <div align="center">
