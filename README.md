@@ -1,7 +1,7 @@
 <div>
     <h1>Bem vindo ao meu perfil 🎸✨</h1>
-    <h2>Estudante de Ciência da Computação</h2>
-    <p>Muito prazer, me chamo Caio Portella e estou no meu último semestre de ciência da computação. Me dedico, atualmente, ao meu TCC que está sendo desenvolvido utilizando tecnologias web. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos e em busca de novas oportunidades.</p>
+    <h2>Cientista da Computação</h2>
+    <p>Muito prazer, me chamo Caio Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
 </div>
 
 <div>
