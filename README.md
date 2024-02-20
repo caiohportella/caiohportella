@@ -1,13 +1,13 @@
 <div>
     <h1>Welcome to my profile 🎸✨</h1>
     <h2>Computer Scientist</h2>
-    <p>🇧🇷 Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
-    <br>
     <p>🇬🇧 Very nice to meet you, I'm Caio Henrique Portella and I'm a fresh graduate in computer science at PUC-SP. I seek new oportunities inside the web or mobile development field. I look forward to adding up more learning to my curriculum, always seeking to help people and acquire new knowledge.</p>
+    <br>
+    <p>🇧🇷 Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
 </div>
 
 <div>
-    <h2> Conecte-se comigo </h2>
+    <h2> Link with me </h2>
     <a href="https://www.linkedin.com/in/caiohportella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/caiohportella" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:caiohportella@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline_block"> <br>
-    <h2> Tecnologias </h2>
+    <h2> Tecnologies </h2>
         <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
         <img align="center" alt="ReactNav" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg"/>
         <img align="center" alt="Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -40,21 +40,17 @@
         <img align="center" alt="Tailwindcss" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     </h2>
     <br>
-    <h2>Línguas</h2>
+    <h2>Languages</h2>
         🇧🇷 🇬🇧 🇫🇷 🇪🇸 🇩🇪 🇳🇴
 </div>
 
 <br>
 <br>
 
-## Principais Projetos
+## Main Projects
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
 [![DigitalHippo](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=digital-hippo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/digital-hippo)
 [![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
 [![Snapgram](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=snapgram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/snapgram)
 
 <br>
-<br>
-
-## Principais Contribuições
-[![Dio Lab](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/dio-lab-open-source)
