@@ -12,6 +12,7 @@
     <a href="https://www.instagram.com/caiohportella" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:caiohportella@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
     <a href="https://portfolio-caiohportella.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=#61DBFB"></a>
+    <a href="https://stackoverflow.com/users/15330823/caio" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=#FF9900"></a>
 </div>
 <br>
 <div align="center">
