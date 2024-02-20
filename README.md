@@ -45,7 +45,7 @@
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
 [![DigitalHippo](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=digital-hippo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectsProcessing)
 [![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
-[![Snapgram](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/snapgram)
+[![Snapgram](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=snapgram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/snapgram)
 
 <br>
 <br>
