@@ -1,7 +1,7 @@
 <div>
     <h1>Bem vindo ao meu perfil 🎸✨</h1>
     <h2>Cientista da Computação</h2>
-    <p>Muito prazer, me chamo Caio Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
+    <p>Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
 </div>
 
 <div>
@@ -14,6 +14,7 @@
 <div align="center">
     <a href="https://github.com/caiohportella">
     <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api?username=caiohportella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api?username=caiohportella&top-langs/" />
     <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api/top-langs/?username=caiohportella&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
