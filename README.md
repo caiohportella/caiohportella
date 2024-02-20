@@ -24,11 +24,14 @@
         <img align="center" alt="Javascript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
         <img align="center" alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
         <img align="center" alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+        <img align="center" alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+          
         <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
         <img align="center" alt="Golang" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
         <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-        <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+        <img align="center" alt="SASS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+        <img align="center" alt="Tailwindcss" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </h2>
 </div>
 
@@ -37,7 +40,7 @@
 
 ## Principais Projetos
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
-[![ProjectsProcessing](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectsProcessing)
+[![DigitalHippo](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=digital-hippo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectsProcessing)
 [![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
 [![Snapgram](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/snapgram)
 
