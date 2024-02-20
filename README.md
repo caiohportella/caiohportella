@@ -1,7 +1,9 @@
 <div>
-    <h1>Bem vindo ao meu perfil 🎸✨</h1>
-    <h2>Cientista da Computação</h2>
-    <p>Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
+    <h1>Welcome to my profile 🎸✨</h1>
+    <h2>Computer Scientist</h2>
+    <p>🇧🇷 Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
+    <br>
+    <p>🇬🇧 Very nice to meet you, I'm Caio Henrique Portella and I'm a fresh graduate in computer science at PUC-SP. I seek new oportunities inside the web or mobile development field. I look forward to adding up more learning to my curriculum, always seeking to help people and acquire new knowledge.</p>
 </div>
 
 <div>
@@ -37,6 +39,9 @@
         <img align="center" alt="Sass" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
         <img align="center" alt="Tailwindcss" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     </h2>
+    <br>
+    <h2>Línguas</h2>
+        🇧🇷 🇬🇧 🇫🇷 🇪🇸 🇩🇪 🇳🇴
 </div>
 
 <br>
