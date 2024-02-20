@@ -14,7 +14,6 @@
 <div align="center">
     <a href="https://github.com/caiohportella">
     <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api?username=caiohportella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api?username=caiohportella&top-langs/" />
     <img height="180em" src="https://github-readme-stats-caiohportella.vercel.app/api/top-langs/?username=caiohportella&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -44,7 +43,7 @@
 
 ## Principais Projetos
 [![Portfolio](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/portfolio)
-[![DigitalHippo](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=digital-hippo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectsProcessing)
+[![DigitalHippo](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=digital-hippo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/digital-hippo)
 [![YelpCamp](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=ProjectYelpCamp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/ProjectYelpCamp)
 [![Snapgram](https://github-readme-stats-caiohportella.vercel.app/api/pin/?username=caiohportella&repo=snapgram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/caiohportella/snapgram)
 
