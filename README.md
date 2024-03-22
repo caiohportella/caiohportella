@@ -40,7 +40,7 @@
         <img align="center" alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
         <img align="center" alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
         <img align="center" alt="TRPC" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" />
-        <img align="center" alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/icons/prisma/prisma-original.svg" />
+        <img align="center" alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     </h2>
     <br>
     <h2>Languages</h2>
