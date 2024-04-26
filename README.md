@@ -1,6 +1,6 @@
 <div>
     <h1>Welcome to my profile 🎸✨</h1>
-    <h2>Computer Scientist</h2>
+    <h2>Software Engineer</h2>
     <p>🇬🇧 Very nice to meet you, I'm Caio Henrique Portella and I'm a fresh graduate in computer science at PUC-SP. I seek new oportunities inside the web or mobile development field. I look forward to adding up more learning to my curriculum, always seeking to help people and acquire new knowledge.</p>
     <br>
     <p>🇧🇷 Muito prazer, me chamo Caio Henrique Portella e sou recém graduado em ciência da computação pela PUC-SP. Busco oportunidades no meio do desenvolvimento web ou mobile. Gosto de acrescentar cada vez mais aprendizados em meu currículo, procurando sempre uma maneira nova de como ajudar as pessoas e adquirir novos conhecimentos.</p>
